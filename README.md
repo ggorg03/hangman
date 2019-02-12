@@ -1,2 +1,3 @@
 # hangman
-This is the game hangman that i've made in ruby
+  This is a Hangman game that , to run this game you just need to execute typing "ruby main.rb" in your terminal.
+  Enjoy :)
